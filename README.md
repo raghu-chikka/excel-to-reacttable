@@ -1,1 +1,1 @@
-# excel-to-reactable
+# excel-to-react-table
